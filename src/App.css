@@ -84,11 +84,12 @@ body {
 .main-wrapper{
   align-items: center;
   display: flex;
-  height: 100%;
-  margin: 30px auto;
+  height: 250px;
+  max-width: 60%;
+  margin: 3px auto;
   justify-content: center;
   position: relative;
-  width: 72%;
+  width: 60%;
   z-index: 1;
 }
 
